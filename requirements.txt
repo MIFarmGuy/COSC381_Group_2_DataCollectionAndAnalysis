@@ -1,0 +1,7 @@
+fastapi>=0.118.0
+uvicorn[standard]>=0.37.0
+aiosqlite>=0.21.0
+pydantic>=2.11.0
+numpy>=2.3.0
+pandas>=2.3.0
+matplotlib>=3.10.0
